@@ -41,16 +41,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Sitecore.Analytics, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.Analytics.NoReferences.8.2.161221\lib\NET452\Sitecore.Analytics.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\SC.Sitecore.Analytics.8.2.2\lib\Sitecore.Analytics.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Analytics.Model, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.Analytics.Model.NoReferences.8.2.161221\lib\NET452\Sitecore.Analytics.Model.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\SC.Sitecore.Analytics.Model.8.2.2\lib\Sitecore.Analytics.Model.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Commerce, Version=8.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.Commerce.NoReferences.8.2.161221\lib\NET452\Sitecore.Commerce.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\packages\SC.Sitecore.Commerce.8.2.2\lib\Sitecore.Commerce.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
